@@ -1,0 +1,7 @@
+{
+  "name": "globistack-mix",
+  "version": "1.0.0",
+  "main": "globistack-mix.js",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "private": true
+}
