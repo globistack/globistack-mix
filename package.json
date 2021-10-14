@@ -1,7 +1,13 @@
 {
-  "name": "globistack-mix",
-  "version": "1.0.2",
+  "name": "my-new-project",
+  "version": "1.0.4",
+  "description": "Globistack Mix Package.",
   "main": "globistack-mix.js",
-  "license": "SEE LICENSE IN LICENSE.md",
-  "private": true
+  "repository": {
+    "url": "https://bitbucket.org/globistack/globistack-mix.git",
+    "type": "git"
+  },
+  "author": "Tom De Decker <contact@globistack.com>",
+  "license": "SEE LICENSE IN LICENSE.md"
 }
+
