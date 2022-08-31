@@ -44,7 +44,7 @@ class GlobistackMix {
         const assetPaths = this.assetPaths(data);
         for (const assetPath of assetPaths) {
             let data = fs.readFileSync(assetPath, 'utf8');
-            data = data.replace(/\r?\n|\r/g, "");
+            data = data.replace(/^\s+|\s+$/g, '');
             fs.writeFileSync(assetPath, data);
         }
     }
