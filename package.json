@@ -1,10 +1,10 @@
 {
-  "name": "my-new-project",
+  "name": "globistack-mix",
   "version": "1.0.5",
   "description": "Globistack Mix Package.",
   "main": "globistack-mix.js",
   "repository": {
-    "url": "https://bitbucket.org/globistack/globistack-mix.git",
+    "url": "https://github.com/globistack/globistack-mix.git",
     "type": "git"
   },
   "author": "Tom De Decker <contact@globistack.com>",
